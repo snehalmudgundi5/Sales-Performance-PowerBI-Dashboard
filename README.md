@@ -229,6 +229,9 @@ Sales-Performance-Dashboard/
 
 ---
 
+This Power BI dashboard is part of an end-to-end sales analytics solution. The underlying CRM and ERP datasets are also used in my SQL Data Warehouse project, where the data is processed through Bronze, Silver, and Gold layers before analytical reporting.
+
+
 # 👨‍💻 Author
 
 **Snehal Mudgundi**
